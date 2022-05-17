@@ -6,7 +6,7 @@
 ### Hola 👋
 
 <div align="left">
-Hi, I'm 예톤 <br>
+Hi, I'm yeton <br>
 Thank you for visiting my github. <br>
    <br>
   
