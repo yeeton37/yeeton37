@@ -3,14 +3,14 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=yeeton37&show_icons=true&theme=radical"/>
 
   
-### Hola 👋
-
-<div align="left">
-반가워요 <br>
-   <br>
+## Hola ~ 👋
   
-- Yagom Academy iOS Code Starter Camp 3th
-- Yagom Academy iOS Career Starter Camp 6th
+<br>
+<div align="left">
+  
+ 🐻 Yagom Academy iOS Code Starter Camp 3th  
+  
+ 🐻 Yagom Academy iOS Career Starter Camp 6th
 
   <br>
  
