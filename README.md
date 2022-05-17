@@ -6,8 +6,7 @@
 ### Hola 👋
 
 <div align="left">
-Hi, I'm yeton <br>
-Thank you for visiting my github. <br>
+반가워요 <br>
    <br>
   
 - Yagom Academy iOS Code Starter Camp 3th
