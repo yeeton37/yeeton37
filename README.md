@@ -3,7 +3,7 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=yeeton37&show_icons=true&theme=radical"/>
 
   
-### 안녕 👋
+### Hola 👋
 
 <div align="left">
 Hi, I'm 예톤 <br>
