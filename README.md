@@ -21,7 +21,7 @@
 <!-- <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeton37&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a> -->
 
 ## Skills & Tools
-<div align="left">
+<div align="middle">
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white) 
 ![iOS](https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white) 
