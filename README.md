@@ -46,6 +46,13 @@
 
   <br>
  
+ <h3 align="center"> 🐣 나의 기록 🐣
+<br>
+<br>
+
+[velog](https://velog.io/@yeeton37)
+ 
+ 
 </div>
  
 ---
