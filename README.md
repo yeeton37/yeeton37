@@ -1,16 +1,46 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yeton%20&fontSize=90)
 
 <div align="center">
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=yeeton37&show_icons=true&theme=radical"/>
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yeeton37)](https://hits.seeyoufarm.com)                    
+
 
   
-## Hola ~ 👋
-  
+<br/> 
+
+
+<h3 align="center"> 안녕!👐 
 <br>
-<div align="left">
-  
+<br>삐약이 개발자 예톤이야 반가워 🐣<br/> 
+<br>
+<img src = "https://i.imgur.com/pbSnazI.jpg" width = "40%" height = "40%">
+</h3>
+
+<br/> 
+
+<br>
+
+<h3 align="center"> 🐣 나의 기술 스택 🐣
+<br>
+<br>
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white) 
+![iOS](https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white) 
+<img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+
+<br/>
+
+<h3 align="center"> 🐣 나의 활동들 🐣
+<br>
+<br>
  🐻 Yagom Academy 
     iOS Code Starter Camp 3th  
-  
+<br>
+<br>
+
  🐻 Yagom Academy 
     iOS Career Starter Camp 6th
 
@@ -19,20 +49,8 @@
 </div>
  
 ---
-    
-<!-- <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeton37&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a> -->
 
-## Skills & Tools
-<div align="middle">
+<div align="center">
+<img align="center" width="50%" src="https://github-readme-status.vercel.app/api?username=yeeton37&show_icons=true&theme=radical"/>
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white) 
-![iOS](https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white) 
-<img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=xcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-
-  <br>
- 
 </div>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yeeton37)](https://hits.seeyoufarm.com)                    
