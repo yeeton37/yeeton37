@@ -51,7 +51,7 @@
 <br>
 
 [velog](https://velog.io/@yeeton37)
- 
+[naver blog](https://m.blog.naver.com/kikiluv37)
  
 </div>
  
