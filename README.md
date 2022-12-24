@@ -12,7 +12,7 @@
 
 <h3 align="center"> 안녕!👐 
 <br>
-<br>삐약이 개발자 예톤이야 반가워 🐣<br/> 
+<br> 예톤이야 반가워 🐣<br/> 
 <br>
 <img src = "https://i.imgur.com/pbSnazI.jpg" width = "40%" height = "40%">
 </h3>
