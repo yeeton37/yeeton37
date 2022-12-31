@@ -50,7 +50,7 @@
 <br>
 <br>
 
-[velog](https://velog.io/@yeeton37)
+[velog](https://velog.io/@yeton37)
    <br>
 [naver blog](https://m.blog.naver.com/kikiluv37)
  
