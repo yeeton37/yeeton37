@@ -10,9 +10,9 @@
 <br/> 
 
 
-<h3 align="center"> 안녕!👐 
+<h3 align="center"> Hi!👐 
 <br>
-<br> 예톤이야 반가워 🐣<br/> 
+<br> I'm Yeton 🐣<br/> 
 <br>
 <img src = "https://i.imgur.com/pbSnazI.jpg" width = "40%" height = "40%">
 </h3>
