@@ -37,13 +37,9 @@
 <h3 align="center"> 🐣 나의 활동들 🐣
 <br>
 <br>
- 🐻 Yagom Academy 
-    iOS Code Starter Camp 3th  
-<br>
-<br>
 
- 🐻 Yagom Academy 
-    iOS Career Starter Camp 6th
+###### 🐻 Yagom Academy iOS Code Starter Camp 3th  
+###### 🐻 Yagom Academy iOS Career Starter Camp 6th
 
   <br>
  
