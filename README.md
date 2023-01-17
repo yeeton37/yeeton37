@@ -6,7 +6,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yeeton37)](https://hits.seeyoufarm.com)                    
 
 
-  
+
 <br/> 
 
 
@@ -14,7 +14,7 @@
 <br>
 <br> I'm Yeton 🐣<br/> 
 <br>
-<img src = "https://i.imgur.com/pbSnazI.jpg" width = "40%" height = "40%">
+<img src = "https://user-images.githubusercontent.com/98514397/212918487-9bcc5b17-15d5-45dc-a531-7997b950e644.JPG" width = "40%" height = "40%">
 </h3>
 
 <br/> 
