@@ -14,7 +14,7 @@
 <br>
 <br> I'm Yeton 🐣<br/> 
 <br>
-<img src = "https://user-images.githubusercontent.com/98514397/214612083-e5e28830-af5a-4adf-ae82-8616f9d0f560.JPG" width = "25%" height = "40%">
+<img src = "https://user-images.githubusercontent.com/98514397/214612083-e5e28830-af5a-4adf-ae82-8616f9d0f560.JPG" width = "30%" height = "40%">
 </h3>
 <br/> 
 
