@@ -14,11 +14,12 @@
 <br>
 <br> I'm Yeton 🐣<br/> 
 <br>
-<img src = "https://user-images.githubusercontent.com/98514397/214612083-e5e28830-af5a-4adf-ae82-8616f9d0f560.JPG" width = "30%" height = "40%">
+<img src = "https://user-images.githubusercontent.com/98514397/222039577-dd340f81-1b11-4fb9-9b7d-7e53cede9726.jpg" width = "30%" height = "40%">
 </h3>
 <br/> 
 
 <br>
+
 
 <h3 align="center"> 🐣 나의 기술 스택 🐣
 <br>
