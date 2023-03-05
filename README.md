@@ -53,10 +53,4 @@
 [naver blog](https://m.blog.naver.com/kikiluv37)
  
 </div>
- 
----
 
-<div align="center">
-<img align="center" width="50%" src="https://github-readme-status.vercel.app/api?username=yeeton37&show_icons=true&theme=gruvbox"/>
-
-</div>
