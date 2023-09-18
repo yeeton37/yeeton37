@@ -10,9 +10,9 @@
 <br/> 
 
 
-<h3 align="center"> Hi!👐 
+<h3 align="center"> 안녕
 <br>
-<br> I'm Yeton 🐣<br/> 
+<br> <br/> 
 <br>
 <img src = "https://user-images.githubusercontent.com/98514397/222039577-dd340f81-1b11-4fb9-9b7d-7e53cede9726.jpg" width = "30%" height = "40%">
 </h3>
