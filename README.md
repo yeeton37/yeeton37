@@ -2,6 +2,6 @@
 
 <div align="center">
 
-iOS, visionOS developer 
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yeeton37)](https://hits.seeyoufarm.com)                    
